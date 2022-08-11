@@ -1,0 +1,20 @@
+{
+	"name": "tutriallibreria",
+	"version": "0.1.0",
+	"description": "Tutorial library",
+	"main": "index.js",
+	"scripts": {
+		"test": "https://github.com/AllanTorresBass/tutorialLibrery.git"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AllanTorresBass/tutorialLibrery.git"
+	},
+	"author": "Allan Torres",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AllanTorresBass/tutorialLibrery/issues"
+	},
+	"type": "module",
+	"homepage": "https://github.com/AllanTorresBass/tutorialLibrery#readme"
+}
